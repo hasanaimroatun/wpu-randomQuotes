@@ -1,11 +1,15 @@
 import React from 'react'
 import './App.css'
-import header from './components/header'
+import Random from './components/Random'
+import BillGates from './components/BillGates'
+import './components/myStyle.css'
+
 
 function App() {
   return (
-    <div className='App'>
-      <header></header>
+    <div>
+      <Random />
+      <BillGates />
     </div>
   )
 }
