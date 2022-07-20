@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'nunito';
+    src: local('nunito'),
+    url('./font/nunito-bold-webfont.woff2') format('woff2');
+}
+
 .utama {
     display: block;
     width: 60%;
@@ -101,8 +107,3 @@
     font-weight: 700;
 }
 
-@font-face {
-    font-family: 'nunito';
-    src: local('nunito'),
-    url('./font/nunito-bold-webfont.woff2') format('woff2');
-}
