@@ -1,15 +1,14 @@
 import React from 'react'
 import './App.css'
-import Random from './components/Random'
-import BillGates from './components/BillGates'
-import './components/myStyle.css'
+import RandomQuotes from './components/RandomQuotes'
+
+
 
 
 function App() {
   return (
     <div>
-      <Random />
-      <BillGates />
+      <RandomQuotes />
     </div>
   )
 }
