@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://random-quotes-challenge.web.app">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![screenshot](https://github.com/hasanaimroatun/wpu-randomQuotes/blob/master/src/components/pic/2022-08-11.png)
 
-You can see my demo on . I have no experience in website development but i have interest in this field since a few months ago. I have learned css, html, javascript, and react from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
+You can see my demo on https://random-quotes-challenge.web.app. I have no experience in website development but i have interest in this field since a few months ago. I have learned css, html, javascript, and react from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
 
 ### Built With
 
