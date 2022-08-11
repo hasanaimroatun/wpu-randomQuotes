@@ -46,6 +46,7 @@ You can see my demo on https://random-quotes-challenge.web.app. I have no experi
 - [React](https://reactjs.org/)
 - [VSCode](https://code.visualstudio.com)
 - [Fire Base Hosting](https://firebase.google.com)
+- [Quote-garden](https://quote-garden.herokuapp.com/api/v3/quotes/random)
 
 ## Features
 
